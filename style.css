@@ -1,5 +1,48 @@
-body {
-  width: 100%;
+h1 {
+  text-align: center;
+  margin: ;
+}
+
+nav{
+  margin: 0;
+  text-align: center;
+}
+
+ nav a{
+background-color: blanchedalmond;
+padding-right: 10px;
+padding-left: 10px;
+}
+
+img {
+  width: 70%;
+  display: block;
+  padding-left:185px;
+  margin:0;
+}
+
+figcaption{
+  margin: 0;
+  text-align: center;
+  font-size: 12px
+}
+
+div{
+  float:left;
+  margin: 0;
+  text-align: center;
+  width: 25%;
+  background-color: grey;
+}
+
+#featured-property > p{
+  text-align: center;
+  width: 700px;
+  padding-left: 350px;
+}
+
+body{
   height: 100%;
+  width: 100%;
   margin: 0;
 }
